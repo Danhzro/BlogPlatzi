@@ -1,6 +1,7 @@
-Este es un documento de texto 
-Soy cristopher y tengo 24 años de edad, nacido en colombia
-Voy a probar como funciona github otra vez pero con ganas de aprender 
+Este es un documento de texto
 
-Continuemos con este recorrido 
+Soy cristopher y tengo 24 años de edad, nacido en colombia
+Voy a probar como funciona github otra vez pero con ganas de aprender
+
+Continuemos con este camino. 
 Aquí agrego un nuevo texto, para continuar con las variables del problema
